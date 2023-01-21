@@ -1,0 +1,89 @@
+body {
+  background-image: url(avocado.png);
+  background-attachment: fixed;
+  text-align: center;
+  background-color:rgb(61, 60, 69) ;
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+
+.TableHead {
+  font-weight:bold;
+  background-color: whitesmoke;
+  border-collapse: collapse;
+  width: 90%;
+  font-family: 'Lato', sans-serif;
+}
+
+.TableContainer {
+  text-align: center;
+}
+
+.Table {
+  color:blueviolet
+}
+
+.Button {
+  font-weight:bold;
+  color: red;
+  border-color: red;
+
+}
+
+.TextField{
+  color: white;
+  border-radius: 0%;
+}
+
+
+.inputText {
+  padding: 10px;
+  width: 30%;
+  margin:auto;
+  border-radius: 12px;
+  color: whitesmoke;
+}
+
+h1{
+  color: whitesmoke;
+  font-family: 'Lato', sans-serif;
+  
+}
+
+
+
+img {
+  border: 1px rgb(61, 60, 69) solid;
+  border-radius: 12px;
+}
+
+p {
+  color: whitesmoke;
+}
+
+div {
+  color: white;
+}
+
+head{
+  font-weight: bold;
+}
+
+.table {
+  padding: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+#outputDiv2, #outputDiv, #result, #reveserSTableRowingResult {
+ color: black;
+ font-weight: 900;
+ font-size: 25px;
+ font-family: 'Lato', sans-serif;
+}
+
+.TableHead {
+  font-weight: bold !important;
+
+}
